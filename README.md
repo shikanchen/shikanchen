@@ -26,8 +26,9 @@
 ### A little more about me...
 
 ```python
-steve = {
-    pronouns: "he" | "him",
+shikan = {
+    pronouns: ["he", "him"],
+    preferred_name : "Steve",
     languages: [Python, Java, HTML, CSS, C],
     tools: [Anaconda, Docker, Git, Pytorch],
     tech_communities: {
