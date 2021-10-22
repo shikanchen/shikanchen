@@ -33,13 +33,8 @@ shikan = {
     tools: [Anaconda, Docker, Git, Pytorch],
     tech_communities: {
         student: "University of California San Diego",
-        engineer: "Surreal",
         co - founder: "Have Faith in Data",
     },
-    current_work: [
-        "An implementation of InfinityGAN",
-        "An implementation of Federated Question Answering System for Personal Health Knowledge Graph",
-    ],
 }
 
 ```
