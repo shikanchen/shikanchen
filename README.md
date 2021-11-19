@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 📝 I regularly push works here: [https://github.com/shikanchen](https://github.com/shikanchen)</br>
-💬 About me: **Python, Pytorch, Architecture**</br>
+💬 About me: **Python, Web Dev, Architecture**</br>
 📫 How to reach me: **Find me on:** [Shikan | LinkedIn](http://linkedin.com/in/shikan-steve-chen-25a205145)</br>
 ⚡ Fun fact: **I love photography and skiing.**</br>
 
