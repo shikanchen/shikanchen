@@ -36,6 +36,12 @@ shikan = {
         co - founder: "Have Faith in Data",
     },
 }
+HaveFaithInData = {
+    current_works: {
+        "callmemaybe_backend" : "A boardgame grouping assisting platform with recommender system",
+        "LARP-Star-Web": "front end for callmemaybe_backend"
+    }
+}
 
 ```
 
