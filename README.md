@@ -3,7 +3,7 @@
 
 [![Bit Player's github stats](https://github-readme-stats.vercel.app/api?username=shikanchen&show_icons=true&count_private=true)](https://github.com/shikanchen/)
 -->
-<h1 align="center">Hi 👋, I'm Shikan</h1>
+<h1 align="center">Hi 👋, I'm Shikan(Steve)</h1>
 <h3 align="center">I am a co-founder, developer, student.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
