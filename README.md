@@ -32,7 +32,7 @@ shikan = {
     languages: [Python, Java, HTML, CSS, C],
     tools: [Anaconda, Docker, Git, Pytorch],
     tech_communities: {
-        student: "University of California San Diego",
+        alum: "University of California San Diego",
         co - founder: "Have Faith in Data",
     },
 }
