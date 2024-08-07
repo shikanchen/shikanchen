@@ -35,13 +35,15 @@ shikan = {
         co - founder: "Have Faith in Data",
     },
 }
+
+
+```
+<!-- 
 HaveFaithInData = {
     current_works: {
         "callmemaybe_backend" : "A boardgame grouping assisting platform with recommender system",
         "LARP-Star-Web": "front end for callmemaybe_backend"
     }
 }
-
-```
-
+-->
 **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!:)**
