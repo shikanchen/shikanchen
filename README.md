@@ -9,18 +9,18 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 📝 I regularly push works here: [https://github.com/shikanchen](https://github.com/shikanchen)</br>
-💬 About me: **Python, Web Dev, Architecture**</br>
-📫 How to reach me: **Find me on:** [Shikan | LinkedIn](https://www.linkedin.com/in/shikan-chen-25a205145)</br>
-⚡ Fun fact: **I love photography and skiing.**</br>
+💬 About me: **Data Analyst, DevOp Engineer, Architecture Designer**</br>
+📫 How to reach me: **Find me on:** [[Shikan | LinkedIn](https://www.linkedin.com/in/steve-sc/)]</br>
+⚡ Fun fact: **I love photography, skiing, and golfing.**</br>
 
-<!-- 
+
 <p>
 <em>
-  Graduate Student at <a href="https://ucsd.edu/">University of California San Diego</a></br>
-  Computer Vision Algorithm Engineer at <a href="https://www.surreal.la/">Surreal</a>
+  Alum at <a href="https://ucsd.edu/">University of California San Diego</a></br>
+  Data Analyst at <a href="https://www.ey.com/">EY</a>
 </em>
 </p>
--->
+
 
 
 ### A little more about me...
